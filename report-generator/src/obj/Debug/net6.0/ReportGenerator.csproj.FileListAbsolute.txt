@@ -1,0 +1,15 @@
+/Users/harrison/Workspace/co-pilot-training/code-completions-1/src/obj/Debug/net6.0/ReportGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrison/Workspace/co-pilot-training/code-completions-1/src/obj/Debug/net6.0/ReportGenerator.AssemblyInfoInputs.cache
+/Users/harrison/Workspace/co-pilot-training/code-completions-1/src/obj/Debug/net6.0/ReportGenerator.AssemblyInfo.cs
+/Users/harrison/Workspace/co-pilot-training/code-completions-1/src/obj/Debug/net6.0/ReportGenerator.csproj.CoreCompileInputs.cache
+/Users/harrison/Workspace/co-pilot-training/code-completions-1/src/obj/Debug/net6.0/ReportGenerator.sourcelink.json
+/Users/harrison/Workspace/co-pilot-training/code-completions-1/src/bin/Debug/net6.0/ReportGenerator
+/Users/harrison/Workspace/co-pilot-training/code-completions-1/src/bin/Debug/net6.0/ReportGenerator.deps.json
+/Users/harrison/Workspace/co-pilot-training/code-completions-1/src/bin/Debug/net6.0/ReportGenerator.runtimeconfig.json
+/Users/harrison/Workspace/co-pilot-training/code-completions-1/src/bin/Debug/net6.0/ReportGenerator.dll
+/Users/harrison/Workspace/co-pilot-training/code-completions-1/src/bin/Debug/net6.0/ReportGenerator.pdb
+/Users/harrison/Workspace/co-pilot-training/code-completions-1/src/obj/Debug/net6.0/ReportGenerator.dll
+/Users/harrison/Workspace/co-pilot-training/code-completions-1/src/obj/Debug/net6.0/refint/ReportGenerator.dll
+/Users/harrison/Workspace/co-pilot-training/code-completions-1/src/obj/Debug/net6.0/ReportGenerator.pdb
+/Users/harrison/Workspace/co-pilot-training/code-completions-1/src/obj/Debug/net6.0/ReportGenerator.genruntimeconfig.cache
+/Users/harrison/Workspace/co-pilot-training/code-completions-1/src/obj/Debug/net6.0/ref/ReportGenerator.dll
