@@ -1,0 +1,16 @@
+/Users/harrison/Workspace/co-pilot-training/exercise-1/src/Library.Infrastructure/bin/Debug/net9.0/Library.Infrastructure.deps.json
+/Users/harrison/Workspace/co-pilot-training/exercise-1/src/Library.Infrastructure/bin/Debug/net9.0/Library.Infrastructure.dll
+/Users/harrison/Workspace/co-pilot-training/exercise-1/src/Library.Infrastructure/bin/Debug/net9.0/Library.Infrastructure.pdb
+/Users/harrison/Workspace/co-pilot-training/exercise-1/src/Library.Infrastructure/bin/Debug/net9.0/Library.ApplicationCore.dll
+/Users/harrison/Workspace/co-pilot-training/exercise-1/src/Library.Infrastructure/bin/Debug/net9.0/Library.ApplicationCore.pdb
+/Users/harrison/Workspace/co-pilot-training/exercise-1/src/Library.Infrastructure/obj/Debug/net9.0/Library.Infrastructure.csproj.AssemblyReference.cache
+/Users/harrison/Workspace/co-pilot-training/exercise-1/src/Library.Infrastructure/obj/Debug/net9.0/Library.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrison/Workspace/co-pilot-training/exercise-1/src/Library.Infrastructure/obj/Debug/net9.0/Library.Infrastructure.AssemblyInfoInputs.cache
+/Users/harrison/Workspace/co-pilot-training/exercise-1/src/Library.Infrastructure/obj/Debug/net9.0/Library.Infrastructure.AssemblyInfo.cs
+/Users/harrison/Workspace/co-pilot-training/exercise-1/src/Library.Infrastructure/obj/Debug/net9.0/Library.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/harrison/Workspace/co-pilot-training/exercise-1/src/Library.Infrastructure/obj/Debug/net9.0/Library.Infrastructure.sourcelink.json
+/Users/harrison/Workspace/co-pilot-training/exercise-1/src/Library.Infrastructure/obj/Debug/net9.0/Library..FAF1E3BF.Up2Date
+/Users/harrison/Workspace/co-pilot-training/exercise-1/src/Library.Infrastructure/obj/Debug/net9.0/Library.Infrastructure.dll
+/Users/harrison/Workspace/co-pilot-training/exercise-1/src/Library.Infrastructure/obj/Debug/net9.0/refint/Library.Infrastructure.dll
+/Users/harrison/Workspace/co-pilot-training/exercise-1/src/Library.Infrastructure/obj/Debug/net9.0/Library.Infrastructure.pdb
+/Users/harrison/Workspace/co-pilot-training/exercise-1/src/Library.Infrastructure/obj/Debug/net9.0/ref/Library.Infrastructure.dll

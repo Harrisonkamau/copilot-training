@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WXaeyhbQv7w=",
+  "success": true,
+  "projectFilePath": "/Users/harrison/Workspace/co-pilot-training/exercise-1/src/Library.Infrastructure/Library.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/harrison/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/Users/harrison/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/harrison/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
