@@ -1,0 +1,224 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/harrison/Workspace/co-pilot-training/library-app-tests/tests/UnitTests/UnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/harrison/Workspace/co-pilot-training/library-app-tests/src/Library.ApplicationCore/Library.ApplicationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/harrison/Workspace/co-pilot-training/library-app-tests/src/Library.ApplicationCore/Library.ApplicationCore.csproj",
+        "projectName": "Library.ApplicationCore",
+        "projectPath": "/Users/harrison/Workspace/co-pilot-training/library-app-tests/src/Library.ApplicationCore/Library.ApplicationCore.csproj",
+        "packagesPath": "/Users/harrison/.nuget/packages/",
+        "outputPath": "/Users/harrison/Workspace/co-pilot-training/library-app-tests/src/Library.ApplicationCore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/harrison/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/harrison/Workspace/co-pilot-training/library-app-tests/src/Library.Infrastructure/Library.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/harrison/Workspace/co-pilot-training/library-app-tests/src/Library.Infrastructure/Library.Infrastructure.csproj",
+        "projectName": "Library.Infrastructure",
+        "projectPath": "/Users/harrison/Workspace/co-pilot-training/library-app-tests/src/Library.Infrastructure/Library.Infrastructure.csproj",
+        "packagesPath": "/Users/harrison/.nuget/packages/",
+        "outputPath": "/Users/harrison/Workspace/co-pilot-training/library-app-tests/src/Library.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/harrison/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/harrison/Workspace/co-pilot-training/library-app-tests/src/Library.ApplicationCore/Library.ApplicationCore.csproj": {
+                "projectPath": "/Users/harrison/Workspace/co-pilot-training/library-app-tests/src/Library.ApplicationCore/Library.ApplicationCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/harrison/Workspace/co-pilot-training/library-app-tests/tests/UnitTests/UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/harrison/Workspace/co-pilot-training/library-app-tests/tests/UnitTests/UnitTests.csproj",
+        "projectName": "UnitTests",
+        "projectPath": "/Users/harrison/Workspace/co-pilot-training/library-app-tests/tests/UnitTests/UnitTests.csproj",
+        "packagesPath": "/Users/harrison/.nuget/packages/",
+        "outputPath": "/Users/harrison/Workspace/co-pilot-training/library-app-tests/tests/UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/harrison/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/harrison/Workspace/co-pilot-training/library-app-tests/src/Library.ApplicationCore/Library.ApplicationCore.csproj": {
+                "projectPath": "/Users/harrison/Workspace/co-pilot-training/library-app-tests/src/Library.ApplicationCore/Library.ApplicationCore.csproj"
+              },
+              "/Users/harrison/Workspace/co-pilot-training/library-app-tests/src/Library.Infrastructure/Library.Infrastructure.csproj": {
+                "projectPath": "/Users/harrison/Workspace/co-pilot-training/library-app-tests/src/Library.Infrastructure/Library.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
