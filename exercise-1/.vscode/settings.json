@@ -1,0 +1,8 @@
+{
+  "github.copilot.chat.terminalChatLocation": "chatView",
+  "github.copilot.chat.agent.autoFix": true,
+  "github.copilot.enable": {
+    "javascript": true
+  },
+  "chat.commandCenter.enabled": true
+}
